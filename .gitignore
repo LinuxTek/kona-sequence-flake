@@ -1,0 +1,7 @@
+/lib/
+/target/
+.classpath
+.settings
+.project
+.springBeans
+.gwt
